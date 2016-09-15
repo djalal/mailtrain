@@ -1,4 +1,4 @@
-FROM node:5-slim
+FROM node:5
 
 ENV MAILTRAIN_HOME /opt/mailtrain
 
